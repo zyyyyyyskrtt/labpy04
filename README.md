@@ -19,8 +19,8 @@ Mata Kuliah : Bahasa Pemrograman <p>
    - Menyimpan data mahasiswa ke dalam list **data_mahasiswa**.
 6. Tambah Data Lagi?:
    - Menanyakan apakah pengguna ingin menambah data mahasiswa lagi.
-- Jika pengguna memilih "Ya", kembali **ke langkah 3 (Input Data Mahasiswa).**
-- Jika pengguna memilih "Tidak", lanjut **ke langkah 7 (Cetak Data Mahasiswa).**
+   - Jika pengguna memilih "Ya", kembali **ke langkah 3 (Input Data Mahasiswa).**
+   - Jika pengguna memilih "Tidak", lanjut **ke langkah 7 (Cetak Data Mahasiswa).**
 7. Cetak Data Mahasiswa:
    - Mencetak semua data mahasiswa yang telah dimasukkan dalam format tabel.
 8. Selesai:
